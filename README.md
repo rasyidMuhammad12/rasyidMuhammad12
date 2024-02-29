@@ -1,6 +1,6 @@
 # 
 ## 💫 About Me:
- -👋 Hi, I’m @rasyidMuhammad12<br>- 👀 I’m interested in front End Devlopment and Machine Learning<br>- 🌱 I’m currently learning GoLang<br>- 📫 How to reach me @attmhd
+ -👋 Hi, I’m @rasyidMuhammad12<br>- 👀 I’m interested in front End Devlopment and Machine Learning<br>- 🌱 I’m currently learning react Js<br>- 📫 How to reach me @rsyd.mhmmd
 
 
 # 💻 Tech Stack:
