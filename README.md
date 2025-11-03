@@ -5,9 +5,9 @@
 <h3 align="center">Frontend Developer | Tech Enthusiast | Machine Learning Learner</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/rasyid-muhammad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rasyid-muhammad" height="30" width="40" /></a>
-<a href="https://instagram.com/rsyd.mhmmd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rsyd.mhmmd" height="30" width="40" /></a>
-<a href="mailto:rasyidmuhammad.dev@gmail.com" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rasyid-muhammad" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rsyd.mhmmd" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 
 ---
