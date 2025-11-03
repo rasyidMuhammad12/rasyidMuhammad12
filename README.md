@@ -1,7 +1,101 @@
-# 
-## 💫 About Me:
- -👋 Hi, I’m @rasyidMuhammad12<br>- 👀 I’m interested in front End Devlopment and Machine Learning<br>- 🌱 I’m currently learning react Js<br>- 📫 How to reach me @rsyd.mhmmd
+<p align="center">
+ <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/></p>
+<hr>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rasyid Muhammad</h1>
+<h3 align="center">Frontend Developer | Tech Enthusiast | Machine Learning Learner</h3>
 
+<p align="center">
+<a href="https://www.linkedin.com/in/rasyid-muhammad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rasyid-muhammad" height="30" width="40" /></a>
+<a href="https://instagram.com/rsyd.mhmmd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rsyd.mhmmd" height="30" width="40" /></a>
+<a href="mailto:rasyidmuhammad.dev@gmail.com" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-
+---
+
+<p align="center">
+  <em>
+    This is <b>Rasyid Muhammad</b> — a passionate <b>Frontend Web Developer</b> from <b>Indonesia 🇮🇩</b>.<br>
+    I love crafting clean and modern web interfaces with <b>React.js</b> and <b>Tailwind CSS</b> 💻.<br>
+    I’m also exploring <b>Machine Learning</b> 🤖 and <b>IoT-based systems</b> for automation and innovation.<br><br>
+    <b>Always learning</b>, <b>always building</b> 🚀
+  </em>
+  <br>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> 
+  <b><i>Keep building. Keep growing!</i></b> 
+  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+</p>
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=rasyidMuhammad12&label=Profile%20views&color=0e75b6&style=flat" alt="rasyidMuhammad12" /> 
+</p>
+
+<img align="right" width="300px" alt="Coding" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+
+---
+
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuff...***
+
+✔ Pronouns: ***He/Him*** or ***Frontend Wizard*** ⚡<br>
+✔ Currently focusing on **React.js** and **Laravel** projects<br>
+✔ Learning **Next.js**, **TypeScript**, and **Machine Learning basics**<br>
+✔ Open to collaboration on **Web Development** and **Open Source** 💡<br>
+✔ Interested in **IoT automation systems** and **smart apps**<br>
+✔ Fun fact: *I debug best with a cup of coffee ☕*<br><br><br><br>
+
+---
+
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Use...***
+
+<p align="left">
+
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
+  
+</p>
+
+---
+
+<p align="center">
+ <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasyidMuhammad12&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rasyidMuhammad12" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rasyidMuhammad12&show_icons=true&locale=en&theme=tokyonight" alt="rasyidMuhammad12" width="410" /></p>
+
+---
+
+Here are some [🦜 parrots](https://cultofthepartyparrot.com):
+
+<div align="center">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
+</div>
+
+---
+
+#### 🧠 Want to Make Your Own GitHub Profile?
+You can create one easily:
+1. Create a repository **with your GitHub username** → `rasyidMuhammad12`
+2. Add a `README.md` file.
+3. Fill it with your awesome info (like this ✨)
+4. Done! It’ll automatically appear on your profile 🎉
+
+---
+
+⭐️ From [@rasyidMuhammad12](https://github.com/rasyidMuhammad12)  
+🕓 Last Edited on: *04/11/2025*
